@@ -1,9 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("hii world");
-
-printf("hello pavana");
-
+printf("hello SanJose");
+return o;
 }
-
